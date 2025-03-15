@@ -69,3 +69,7 @@ Key benefits include:
 - One-time Cost: No recurring subscription fees or add-on purchases
 
 Contact Manager Pro bridges the gap between overly simplified address books and complex customer relationship management systems, providing the perfect balance of functionality and usability for individual and small business needs.
+
+![ContactManagerApp-2025-03-15-161658](https://github.com/user-attachments/assets/5fb764ee-8da5-4483-be5c-99a7cd9a11e8)
+
+
